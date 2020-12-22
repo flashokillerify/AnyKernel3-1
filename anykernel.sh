@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Lightning Kernel @DhruvChhura
+kernel.string=ElementalX kernel   Telegram - @DhruvChhura
 do.devicecheck=0
 do.modules=0
 do.systemless=1

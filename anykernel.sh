@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Ryzo Kernel   Telegram - @DhruvChhura
+kernel.string=Ryzen Kernel   Telegram - @DhruvChhura
 do.devicecheck=0
 do.modules=0
 do.systemless=1
